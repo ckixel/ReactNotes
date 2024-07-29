@@ -1,3 +1,11 @@
+# First of all
+
+### To get started, create react app [here](https://ru.react.js.org/docs/create-a-new-react-app.html).
+
+### Then install react-router-dom [here](https://www.w3schools.com/react/react_router.asp)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
